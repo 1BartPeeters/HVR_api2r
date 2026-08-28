@@ -2,7 +2,7 @@
 ## Using R to downloading data from the Hjorteviltregisteret Rapportgenerator API v1
 
 # Documentation:
-# https://hvr-utv.non-prod.landbruksdirektoratet.no/swagger/index.html?urls.primaryName=Rapportgenerator
+# https://hjorteviltregisteret.no/swagger/index.html?urls.primaryName=Rapportgenerator
 
 
 # set local encoding to work with Norwegian letters (maybe not necessary on Linux server)
